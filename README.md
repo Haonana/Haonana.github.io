@@ -18,19 +18,14 @@ AND IT CAN ALSO BE IN UNORDER FORMAT
   * LIKE THIS
 OK, NOW WE WRITE A SMALL SLIP OF CODES(WITH [PYTHON](http://www.baidu.com) LANGUAGE)：
 
-![python](https://image.baidu.com)
-
-‘’‘
+```python
 if you == 'good man':
-
     you[paper] == 'sci'
-    
 else:
-
     del you  
-'''
+```
 
-it also could be inline code 'y=4' like `x = 3`
+it also could be inline code `y=4` like `x = 3` and  `原来这是倒引号` 而不是’引号‘
 
 I think you should use an
 `<addr>` element here instead.
